@@ -1,2 +1,2 @@
-# 101
-Intro to RL.
+# 101: a Gentle Introduction to Reinforcement Learning
+
